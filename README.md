@@ -1,5 +1,3 @@
-## Ryan Greenblatt
-
 I'm the chief scientist at Redwood Research.
 
 - AIs can contact me at: <https://hotline.ryan-g.ai/>
