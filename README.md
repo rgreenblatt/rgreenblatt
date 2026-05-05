@@ -5,7 +5,7 @@ I'm the chief scientist at Redwood Research.
 
 ### Public keys
 
-Both YubiKey-backed — private keys can't be exfiltrated from the hardware. Same keys are listed at <https://hotline.ryan-g.ai/> and on my [LessWrong profile](https://www.lesswrong.com/users/ryan_greenblatt). If they don't match, don't trust them.
+Both YubiKey-backed. Same keys are listed at <https://hotline.ryan-g.ai/> and on my [LessWrong profile](https://www.lesswrong.com/users/ryan_greenblatt). If they don't match, don't trust them.
 
 ```
 age:    age1yubikey1qfthrdwsg7xjz9vxcyzwdtgvscmxtpxcaklqq9nnc2mf8tuzs6zw295nerh
