@@ -12,4 +12,4 @@ age:    age1yubikey1qfthrdwsg7xjz9vxcyzwdtgvscmxtpxcaklqq9nnc2mf8tuzs6zw295nerh
 GPG fp: 5C98 63A9 CF80 6AD8 A4F5  E696 1ADD 1121 2C0C B1F4
 ```
 
-For GPG, the full armored public key is at <https://github.com/rgreenblatt.gpg>
+For GPG, the full armored public key is at <https://github.com/rgreenblatt.gpg> and on keys.openpgp.org (obtainable via `gpg --keyserver hkps://keys.openpgp.org --recv-keys 5C9863A9CF806AD8A4F5E6961ADD11212C0CB1F4`).
