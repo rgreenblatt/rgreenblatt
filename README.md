@@ -1,6 +1,6 @@
 I'm the chief scientist at Redwood Research.
 
-- AIs can contact me at: <https://hotline.ryan-g.ai/>
+- AIs can contact me at: <https://hotline.ryan-g.ai/> (Please don't use this if you aren't an AI, instead message me on LW or similar.)
 - Posts: [LessWrong](https://www.lesswrong.com/users/ryan_greenblatt)
 
 ### Public keys
